@@ -158,7 +158,7 @@ export const Toppage = () => {
                   </svg>
 
 
-                  <button className={style.Button}> EXPLORE CARE&FIT</button>
+                  <button className={style.Button}> EXPLORE CULTFIT</button>
                 </div>
         </div>
       </div>

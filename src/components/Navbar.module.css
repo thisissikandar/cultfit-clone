@@ -70,7 +70,7 @@ a{
     height: 40px;
     margin: auto;
     margin-left: 10px;
-    border-radius: 100%;
+    /* border-radius: 100%; */
    
  
 }
@@ -135,7 +135,6 @@ a{
         height: 30px;
         margin: auto;
         
-        border-radius: 100%;
        
      
     }

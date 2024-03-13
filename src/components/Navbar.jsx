@@ -15,14 +15,14 @@ export default function Navbar({ c }) {
         
         <NavLink to="/">
           <div className={style.logo}>
-            <Nimg /> <h4>CARE&FIT</h4>
+            <Nimg />
           </div>
         </NavLink>
        
         <div className={style.middle}>
           <Link to="/">
             <div className={style.logo1}>
-              <Nimg /> <h4>CARE&FIT</h4>{" "}
+              <Nimg /> 
             </div>
           </Link>
           <Link to="/fitness">
